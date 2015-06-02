@@ -1,0 +1,11 @@
+{
+  "name": "webgl-alb",
+  "version": "0.0.1",
+  "main": "app/main.js",
+  "devDependencies": {
+    "serv": "0.0.7"
+  },
+  "scripts": {
+    "start": "serv"
+  }
+}
