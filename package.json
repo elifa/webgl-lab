@@ -1,5 +1,5 @@
 {
-  "name": "webgl-alb",
+  "name": "webgl-lab",
   "version": "0.0.1",
   "main": "app/main.js",
   "devDependencies": {
